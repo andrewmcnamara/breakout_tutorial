@@ -1,4 +1,0 @@
-class BreakOutGameScene < SKScene
-
-
-end
