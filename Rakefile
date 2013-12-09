@@ -12,4 +12,5 @@ Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'breakout_tutorial'
   app.frameworks += %w{SpriteKit}
+  app.interface_orientations = [:landscape_left]
 end
